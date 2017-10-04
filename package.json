@@ -1,0 +1,33 @@
+{
+  "name": "switch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Adam Fowler",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "gpio": "^0.2.7"
+  },
+  "keywords": [
+    "keyestudio",
+    "RPI",
+    "4-channel",
+    "Relay",
+    "Shield",
+    "Switch",
+    "Module",
+    "Controller"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilglower/keyestudio-rpi-switch-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lilglower/keyestudio-rpi-switch-module/issues"
+  },
+  "homepage": "https://github.com/lilglower/keyestudio-rpi-switch-module#readme",
+  "description": ""
+}
